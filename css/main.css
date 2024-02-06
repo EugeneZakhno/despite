@@ -77,8 +77,8 @@ body {
 	text-shadow: 0 0 15px #9d822b;
 }
 .layers__title {
-	font-size: calc(var(--index) * 1.05);
-	letter-spacing: calc(var(--index) / 1.0);
+	font-size: calc(var(--index) * 0.95);
+	letter-spacing: calc(var(--index) / 0.9);
 }
 .layers__caption {
 	font-size: calc(var(--index) / 1.175);
